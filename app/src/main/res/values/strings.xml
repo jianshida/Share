@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Share</string>
+    <string name="weibosdk_demo_has_installed_weibo">\t已安装</string>
+    <string name="weibosdk_demo_has_not_installed_weibo">\t未安装</string>
+</resources>
